@@ -11,3 +11,4 @@ Group:
 | 3   | Ahmed Mahgoub Saidahmed                | A23CS3023  | mahjob           |
 | 4   | Nam Sook Jing                          | A23CS5016  | namsookjing      |
 
+Rhase 1 Link: (https://github.com/AhmedSocrates/Project1_SAD_20232024/files/15138398/UTM.System.Project-.Phase.1.pdf)
