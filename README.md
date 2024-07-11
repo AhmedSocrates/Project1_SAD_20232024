@@ -12,4 +12,5 @@ Group:
 | 4   | Nam Sook Jing                          | A23CS5016  | namsookjing      |
 
 Phase 1 Link: (https://github.com/AhmedSocrates/Project1_SAD_20232024/files/15138398/UTM.System.Project-.Phase.1.pdf)
-Phase 2 Link: ()
+Phase 2 Link: (https://docs.google.com/document/d/1CIkNASKl7jf-1chouJqS2Dlrl3N33DHCkT-mRRwU3NI/edit?usp=sharing)
+Pahse 3:Link(https://docs.google.com/document/d/1CV34ZFRGjw7_FQFPc5yVNfppq9q-9RFuWt4nD6IdTe0/edit?usp=sharing)
